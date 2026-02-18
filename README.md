@@ -138,7 +138,7 @@ Can machine learning models accurately predict breast cancer malignancy from cel
 
 #### Outline of Project
 
-- [Exploratory Data Analysis Notebook](./notebooks/exploratory_analysis.ipynb)
+- [Exploratory Data Analysis Notebook](./exploratory_analysis.ipynb)
 
 ##### Contact and Further Information
 
