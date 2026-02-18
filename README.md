@@ -142,6 +142,6 @@ Can machine learning models accurately predict breast cancer malignancy from cel
 
 ##### Contact and Further Information
 
-**GitHub Repository**: https://github.com/aashah2022/breast-cancer-prediction
+**GitHub Repository**: https://github.com/aashah2022/breast-cancer-prediction  
 **Date:** February 2026  
 **Course:** Module 20 - Capstone EDA
